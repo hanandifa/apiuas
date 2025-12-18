@@ -1,5 +1,4 @@
-[
-  {
+{
     "namaBarang": "Keripik Singkong Balado",
     "harga": 15000,
     "stok": 50,
@@ -23,4 +22,3 @@
     "stok": 5,
     "id": "4"
   }
-]
