@@ -1,0 +1,26 @@
+[
+  {
+    "namaBarang": "Keripik Singkong Balado",
+    "harga": 15000,
+    "stok": 50,
+    "id": "1"
+  },
+  {
+    "namaBarang": "Kopi Bubuk Robusta 250g",
+    "harga": 45000,
+    "stok": 20,
+    "id": "2"
+  },
+  {
+    "namaBarang": "Sambal Bawang Botol",
+    "harga": 25000,
+    "stok": 15,
+    "id": "3"
+  },
+  {
+    "namaBarang": "Tas Anyaman Pandan",
+    "harga": 120000,
+    "stok": 5,
+    "id": "4"
+  }
+]
